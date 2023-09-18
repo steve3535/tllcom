@@ -11,5 +11,36 @@
 * It will set foundations to transition to SRE  
 * It will set foundations for Cloud engineering  
 * It will open new opportunities in the Job Market  
-* our mission is to collect so many real world cases so that our trainees become true problem solvers for production related systems  
+* our mission is to collect so many real world cases so that our trainees become true problem solvers for production related systems
+* Question: is our product a whole ? can we partner with those taht are providing the dev/sys design courses somehow ?
+* Co creation ?  
+* 4U
+  * Undeserved: we do have so many bootcamps and self paced courses on design and dev
+  * Urgent: people want to change their situation now, they want to make more money
+  * Unavoidable: how long will u hide from Cloud, AI, microservices, web ??
+  * Unworkable: its hard to grasp those skills ..it requires years of experience ...   
   
+## Model  
+
+* web based training -- UX
+* context mini courses in addition to the scenarii
+* 
+
+### GTM  
+* social networks:
+  * related linkedn posts and groups  
+  * twitter tech
+* target Africa (IT schools as well ?)
+  
+### LACKS
+
+* NO CLOUD EXP  
+* NO K8S EXP  
+* !!! NEED COCREATORS !!!  
+
+## The new stack
+* LINUX  
+* Python, not Bash
+* Web servers, not middleware
+* Prometheus + Grafana, not Nagios
+* Containers
